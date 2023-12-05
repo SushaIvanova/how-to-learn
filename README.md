@@ -5,4 +5,4 @@
 1. HTML5
 2. CSS
 
-[Ссылка на проект:](yp-how-to-learn.surge.sh)
+[Ссылка на проект](yp-how-to-learn.surge.sh)
